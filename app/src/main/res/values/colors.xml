@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorText">#D1C4E9</color>
+    <color name="fab1_color"> #4CAF50</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="old1">#3F51B5</color>
+    <color name="old2">#303F9F</color>
+    <color name="color_gridview">#dddddd</color>
+    <color name="color_listview">#f2f5fa</color>
+</resources>
